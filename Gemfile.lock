@@ -42,7 +42,7 @@ GEM
     pg (0.16.0)
     powerpack (0.0.9)
     rainbow (2.0.0)
-    rake (10.1.0)
+    rake (12.3.3)
     redcarpet (3.0.0)
     rkelly-remix (0.0.6)
     robots (0.10.1)
